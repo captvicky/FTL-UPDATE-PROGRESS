@@ -1,0 +1,17 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_B44E4360_B829_6840_41D6_EF2809F3FA18.label = R0011662
+panorama_B3220D31_B829_59C0_41D3_6C7916BB32D3.label = R0011663
+panorama_B32CA564_B829_2840_41E5_4F79BA65ABA0.label = R0011664
+panorama_B32C8DBA_B829_38C0_41DA_FD699F7EDEDE.label = R0011665
+
+## Tour
+
+### Description
+tour.description = Update 16 Aug 2025
+
+### Title
+tour.name = FTL Virtual Progress Real update
