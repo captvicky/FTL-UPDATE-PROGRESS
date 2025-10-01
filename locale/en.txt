@@ -3,10 +3,14 @@
 ## Media
 
 ### Title
+panorama_9293A4E2_9EE4_90EF_41E1_498E5620A058.label = 5
 panorama_B44E4360_B829_6840_41D6_EF2809F3FA18.label = R0011662
-panorama_B3220D31_B829_59C0_41D3_6C7916BB32D3.label = R0011663
-panorama_B32CA564_B829_2840_41E5_4F79BA65ABA0.label = R0011664
-panorama_B32C8DBA_B829_38C0_41DA_FD699F7EDEDE.label = R0011665
+
+## Skin
+
+### Multiline Text
+HTMLText_9079F20C_9EE5_9334_41A6_D2B41AD5ABF3.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:3.0871003307607494vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.09vmin;"><B>AFTER</B></SPAN></SPAN></DIV></div>
+HTMLText_9069D204_9EE5_9334_41D0_333595E3C527.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;text-indent:15px;padding-right:15px;font-size:3.0871003307607494vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;text-indent:15px;"><SPAN STYLE="font-size:3.09vmin;text-indent:15px;"><B>BEFORE</B></SPAN></SPAN></DIV></div>
 
 ## Tour
 
